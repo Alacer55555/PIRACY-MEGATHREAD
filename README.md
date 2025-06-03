@@ -25,11 +25,3 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
-
-#### 📝 **Usage Guide**  
-1. Populate empty boxes with:  
-   - 🔗 **URL**: Current working mirror  
-   - ⚠️ **Risk**: ✅ `Safe` | ⚠️ `Moderate` | ❌ `High Risk`  
-2. Add new entries:  
-   ```markdown
-   | **NewSite** | ▢ | Description | ▢ | Notes |
