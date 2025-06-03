@@ -10,8 +10,8 @@ A list of websites that got verified by FMHY as "Safe" and my personal recommend
 | **Gamdie**         | https://gamdie.com/    | Pre-installed + DLCs + Indie/AA          | ✅ | Verified by FMHY           |
 | **IGG-Games**      | ❌    | Cracked + manual installation + DLCs + Indie/AA/AAA      | ❌ | Adwares + doxxing others          |
 | **SteamUnlocked**     | ❌    |  Pre-installed + DLCs + Indie/AA/AAA                 |  ❌    | Trojans + keyloggers + fake installers         |
-| **OceanofGames**             | ❌         | Cracked + manual installation + DLCs + Indie/AA/AAA                            | ❌     | Trojans + Keyloggers + Cryptominers                    |
-| **CrackingPatching**             | ❌         |                             | ▢     | ▢                     |
+| **OceanofGames**             | ❌         | manual installation + DLCs + Indie/AA/AAA                            | ❌     | Trojans + keyloggers + cryptominers                    |
+| **CrackingPatching**             | ❌         | Portables + manual installation + DLCs + Indie/AA/AAA                             | ❌     | Trojans + ransomwares                    |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
