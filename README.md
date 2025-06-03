@@ -14,7 +14,7 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **CrackingPatching**             | ❌         | Portables + manual installation + DLCs + Indie/AA/AAA                             | ❌     | Trojans + ransomwares                    |
 | **VseTop**             | https://vsetop.org/         | Repacks + DLCs + Indie/AA/AAA                            | ⚠️     | Unverified but moderately safe                     |
 | **Small-Games**             | https://small-games.info/        | Repacks + DLCs + Indie/AA                            | ✅     | Verified by r/CrackWatch                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **rutor**             | https://rutor.info/         | Portables + repacks + manual installation + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY |
 
 #### 📝 **Usage Guide**  
 1. Populate empty boxes with:  
