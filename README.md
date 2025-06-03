@@ -25,3 +25,5 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **BBRepacks**             | ❌         | Repacks + manual steps + DLCs + Indie/AA/AAA                            | ❌     | Adwares + trojans + keyloggers                     |
 | **xGIROx**             | ❌         | Repacks + DLCs + Indie/AA/AAA                            | ❌     | Cryptominers                     |
 | **Rihno Games**             | https://rihnogames.com/         | Manual steps + DLCs + AA/AAA                            | ✅     | Verified by r/CrackWatch                     |
+
+More list coming soon or later!
