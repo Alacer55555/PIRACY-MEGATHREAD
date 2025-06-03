@@ -1,5 +1,5 @@
 # PIRACY-MEGATHREAD
-A list of websites that got verified by FMHY as "Safe" and my personal recommendations.
+A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, my personal recommendations too.
 
 ### 🕹️ Game Repositories
 
@@ -7,13 +7,13 @@ A list of websites that got verified by FMHY as "Safe" and my personal recommend
 |--------------------|------|--------------------------------------|-------|-----------------------------------------|
 | **TutTop**         |  **https://tuttop.com/**   | Repacks + DLCs + Indie/AA/AAA          | ⚠️ | Unverified but moderately safe   |
 | **OgoTop**         | https://ogotop.com/    | Repacks + DLCs + Indie/AA/AAA         | ⚠️ | Unverified but moderately safe             |
-| **Gamdie**         | https://gamdie.com/    | Pre-installed + DLCs + Indie/AA          | ✅ | Verified by FMHY           |
+| **Gamdie**         | https://gamdie.com/    | Portables + DLCs + Indie/AA          | ✅ | Verified by FMHY           |
 | **IGG-Games**      | ❌    | Cracked + manual installation + DLCs + Indie/AA/AAA      | ❌ | Adwares + doxxing others          |
 | **SteamUnlocked**     | ❌    |  Pre-installed + DLCs + Indie/AA/AAA                 |  ❌    | Trojans + keyloggers + fake installers         |
 | **OceanofGames**             | ❌         | Manual installation + DLCs + Indie/AA/AAA                            | ❌     | Trojans + keyloggers + cryptominers                    |
 | **CrackingPatching**             | ❌         | Portables + manual installation + DLCs + Indie/AA/AAA                             | ❌     | Trojans + ransomwares                    |
 | **VseTop**             | https://vsetop.org/         | Repacks + DLCs + Indie/AA/AAA                            | ⚠️     | Unverified but moderately safe                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **Small-Games**             | https://small-games.info/        | Repacks + DLCs + Indie/AA                            | ✅     | Verified by r/CrackWatch                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 
 #### 📝 **Usage Guide**  
