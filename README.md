@@ -7,8 +7,8 @@ A list of websites that got verified by FMHY as "Safe" and my personal recommend
 | Name               | Description                          | Risk  | Notes                                   |
 |--------------------|--------------------------------------|-------|-----------------------------------------|
 | **TutTop** (htttps//tuttop.com)        | Russian repacks (indie/AAA)          | ▢     | `Frequent domain changes`; malware risk |
-| **OgoTop**         | Pre-cracked games with DLCs          | ▢     | `Fake installers` common                |
-| **Gamdie**         | "Pre-installed" indie games          | ▢     | Claims legality; `unverified`           |
+| **OgoTop**         | Pre-cracked games with DLCs          | ⚠️     | `Fake installers` common                |
+| **Gamdie**         | "Pre-installed" indie games          | ✅     | Claims legality; `unverified`           |
 | **IGG-Games**      | Cracked games (not recommended)      | ▢     | Known for `malware + doxxing`           |
 | **TorrentMac**     | Mac game torrents                    | ▢     | `Scan files`; some fake uploads         |
 
