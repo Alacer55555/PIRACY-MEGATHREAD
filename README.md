@@ -1,7 +1,7 @@
 # PIRACY-MEGATHREAD
 A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, my personal recommendations too.
 
-### 🕹️ Game Repositories
+### 🕹️ Games
 
 | Name               | URL  | Description                          | Risk  | Notes                                   |
 |--------------------|------|--------------------------------------|-------|-----------------------------------------|
@@ -15,6 +15,11 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **VseTop**             | https://vsetop.org/         | Repacks + DLCs + Indie/AA/AAA                            | ⚠️     | Unverified but moderately safe                     |
 | **Small-Games**             | https://small-games.info/        | Repacks + DLCs + Indie/AA                            | ✅     | Verified by r/CrackWatch                     |
 | **rutor**             | https://rutor.info/         | Portables + repacks + manual installation + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY |
+| **RuTracker**             | https://rutracker.org/forum/index.php         | Portables + repacks + manual installation + DLCs + Indie/AAA | ✅     | Verified by FMHY     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
 
 #### 📝 **Usage Guide**  
 1. Populate empty boxes with:  
