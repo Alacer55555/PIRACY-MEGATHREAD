@@ -10,6 +10,11 @@ A list of websites that got verified by FMHY as "Safe" and my personal recommend
 | **Gamdie**         | https://gamdie.com/    | Pre-installed games + DLCs (Indie/AA)          | ✅ | Verified by FMHY           |
 | **IGG-Games**      | ❌    | Cracked games + manual installation (Indie/AA/AAA)      | ❌ | Adwares; doxxing others          |
 | **SteamUnlocked**     | ❌    |  Pre-installed games + DLCs (Indie/AA/AAA)                 |  ❌    | Trojans; keyloggers; fake installers         |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| ▢             | ▢         | ▢                            | ▢     | ▢                     |
 
 #### 📝 **Usage Guide**  
 1. Populate empty boxes with:  
