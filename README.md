@@ -17,7 +17,7 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **rutor**             | https://rutor.info/         | Portables + repacks + manual installation + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY |
 | **RuTracker**             | https://rutracker.org/forum/index.php         | Portables + repacks + manual installation + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY     |
 | **1337x**             | https://1337x.to/home/         | Portables + repacks + manual installation + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **Online Fix**             | https://online-fix.me/        | Repacks + manual installation + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 
