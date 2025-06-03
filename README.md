@@ -18,8 +18,8 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **RuTracker**             | https://rutracker.org/forum/index.php         | Portables + repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY     |
 | **1337x**             | https://1337x.to/home/         | Portables + repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
 | **Online Fix**             | https://online-fix.me/        | Repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **Ova Games**             | https://www.ovagames.com/         | Repacks + DLCSs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
+| **SteamRIP**             | https://steamrip.com/         | Repacks + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
 
 #### 📝 **Usage Guide**  
 1. Populate empty boxes with:  
