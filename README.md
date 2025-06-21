@@ -26,9 +26,9 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **xGIROx**             | ❌         | DDL + Indie/AA/AAA                            | ❌     | Cryptominers                     |
 | **Rihno Games**             | https://rihnogames.com/         | DDL + AA/AAA                            | ✅     | Verified by r/CrackWatch                     |
 | **Gamesdrive**             | https://gamesdrive.net/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                    |
-|              |          |                             | ✅     |                      |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **AtopGames**             | https://atopgames.com/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                    |
+| **AnkerGames**             | https://ankergames.net/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
+| **appnetica**             | https://appnetica.com/         | DDL + Torrents + Indie/AA                            | ✅     | Verified by FMHY                     |
 | ▢             | ▢         | ▢                            | ▢     | ▢                     |
 
 More list coming soon or later!
