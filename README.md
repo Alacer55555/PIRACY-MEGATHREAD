@@ -9,14 +9,14 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **OgoTop**         | https://ogotop.com/    | Torrents + DDL + Indie/AA/AAA         | ⚠️ | Unverified but moderately safe             |
 | **Gamdie**         | https://gamdie.com/    | DDL + Indie/AA          | ✅ | Verified by FMHY           |
 | **IGG-Games**      | ❌    | DDL + Indie/AA/AAA      | ❌ | Adwares + doxxing others          |
-| **SteamUnlocked**     | ❌    |  DDL + Indie/AA/AAA                 |  ❌    | Trojans + keyloggers + fake installers         |
+| **SteamUnlocked**     | ❌    | DDL + Indie/AA/AAA                 |  ❌    | Trojans + keyloggers + fake installers         |
 | **OceanofGames**             | ❌         | DDL + Indie/AA/AAA                            | ❌     | Trojans + keyloggers + cryptominers                    |
 | **CrackingPatching**             | ❌         | DDL + Indie/AA/AAA                             | ❌     | Trojans + ransomwares                    |
-| **VseTop**             | https://vsetop.org/         | Repacks + DLCs + Indie/AA/AAA                            | ⚠️     | Unverified but moderately safe                     |
-| **Small-Games**             | https://small-games.info/        | Repacks + DLCs + Indie/AA                            | ✅     | Verified by r/CrackWatch                     |
-| **rutor**             | https://rutor.info/         | Portables + repacks + manual steps + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY |
-| **RuTracker**             | https://rutracker.org/forum/index.php         | Portables + repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY     |
-| **1337x**             | https://1337x.to/home/         | Portables + repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
+| **VseTop**             | https://vsetop.org/         | Torrents + DDL + Indie/AA/AAA                            | ⚠️     | Unverified but moderately safe                     |
+| **Small-Games**             | https://small-games.info/        | Torrents + Indie/AA                            | ✅     | Verified by r/CrackWatch                     |
+| **rutor**             | https://rutor.info/         | Torrents + Indie/AA/AAA                            | ✅     | Verified by FMHY |
+| **RuTracker**             | https://rutracker.org/forum/index.php         | Torrents + Indie/AA/AAA | ✅     | Verified by FMHY     |
+| **1337x**             | https://1337x.to/home/         | Torrents + Indie/AA/AAA | ✅     | Verified by FMHY                     |
 | **Online Fix**             | https://online-fix.me/        | Repacks + manual steps + DLCs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
 | **Ova Games**             | https://www.ovagames.com/         | Repacks + DLCSs + Indie/AA/AAA | ✅     | Verified by FMHY                     |
 | **SteamRIP**             | https://steamrip.com/         | Repacks + DLCs + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
