@@ -29,6 +29,7 @@ A list of websites that got verified by FMHY and r/CrackWatch as "Safe". Also, m
 | **AtopGames**             | https://atopgames.com/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                    |
 | **AnkerGames**             | https://ankergames.net/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
 | **appnetica**             | https://appnetica.com/         | DDL + Torrents + Indie/AA                            | ✅     | Verified by FMHY                     |
-| ▢             | ▢         | ▢                            | ▢     | ▢                     |
+| **GameBounty**             | https://gamebounty.world/        | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
+| **GOG Games**             | https://gog-games.to/         | DDL + Indie/AA/AAA                            | ✅     | Verified by FMHY                     |
 
 More list coming soon or later!
